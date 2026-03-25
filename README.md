@@ -1,4 +1,4 @@
-# Hi, I'm Jose Marchena
+# Jose Marchena
 
 📍 Barcelona · iOS Engineer @ Ocado Technology · iOS since 2013
 
